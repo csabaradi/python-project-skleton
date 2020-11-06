@@ -22,7 +22,7 @@ setup(
 
     description="Python project skeleton",
     long_description=long_description,
-    url="https://github.com/dtolpin/python-project-skeleton",
+    url="git@github.com:csabaradi/python-project-skleton.git",
 
     packages=find_packages(exclude=["doc"]),
 
